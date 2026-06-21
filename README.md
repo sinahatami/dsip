@@ -5,7 +5,7 @@
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white)
 
-This repository contains my coursework, assignments, and final project for **Digital Signal and Image Processing (DSIP)**. It demonstrates practical implementations of signal processing algorithms, frequency domain analysis, and predictive filtering using Python.
+This repository contains my coursework, assignments, and final project for the **Digital Signal and Image Processing (DSIP)** course at the **University of Genova**. It demonstrates practical implementations of signal processing algorithms, frequency domain analysis, and predictive filtering using Python.
 
 ---
 
