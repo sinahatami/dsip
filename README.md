@@ -58,7 +58,7 @@ dsip/
 Ensure you have a working Python environment (Python 3.8+ recommended). To install the required dependencies to run the notebooks, execute:
 
 ```bash
-pip install numpy scipy matplotlib pandas filterpy jupyter nbmake
+pip install -r requirements.txt
 ```
 
 ### Usage
